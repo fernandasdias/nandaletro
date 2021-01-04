@@ -1,7 +1,7 @@
 ###  👩🏽‍💻 Hello, I'm Fernanda! 👋🏼
 
 
-🖥️Software Developer | Consultant 
+🖥️Software Developer 
 
 - 🌱 I’m currently working with: Flutter
 - 📫 How to reach me: ✍🏼[Medium](https://medium.com/@diasfernanda) | [LinkedIn](https://www.linkedin.com/in/fernandasd/)
